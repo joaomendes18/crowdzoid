@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1560626705737,
+  "timestamp": 1560626952609,
   "index": "/crowdzoid/index.html",
   "assetGroups": [
     {
@@ -23,8 +23,7 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/crowdzoid/assets/aa.png",
-        "/crowdzoid/assets/d.png",
+        "/crowdzoid/assets/crowdzoid.png",
         "/crowdzoid/assets/icons/android-icon-144x144.png",
         "/crowdzoid/assets/icons/android-icon-192x192.png",
         "/crowdzoid/assets/icons/android-icon-36x36.png",
@@ -63,8 +62,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/crowdzoid/assets/aa.png": "bafba059257d22131df4019a9dbc869bd90f5ae8",
-    "/crowdzoid/assets/d.png": "eb4025983c8b24539bb70db4b9b3e8d0a092ee61",
+    "/crowdzoid/assets/crowdzoid.png": "aaa2cee595d93eb23ba189840416797577bf2a33",
     "/crowdzoid/assets/icons/android-icon-144x144.png": "07bc0e07e3295d60440c432d56b616b5dbb8aa70",
     "/crowdzoid/assets/icons/android-icon-192x192.png": "bf952efc58a7bf25e72f1cd0b20df610875eed03",
     "/crowdzoid/assets/icons/android-icon-36x36.png": "baf484923bb9fd544f9f60c0662cada2ab125a39",
