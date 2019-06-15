@@ -1,0 +1,124 @@
+{
+  "configVersion": 1,
+  "timestamp": 1560626241440,
+  "index": "/crowdzoid/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/crowdzoid/favicon.ico",
+        "/crowdzoid/index.html",
+        "/crowdzoid/main.07bb33c90cc864d71b17.js",
+        "/crowdzoid/polyfills-es5.613d1909ec381c0aefb7.js",
+        "/crowdzoid/polyfills.366aac02232b602daed7.js",
+        "/crowdzoid/runtime.741402d1d47331ce975c.js",
+        "/crowdzoid/styles.09e2c710755c8867a460.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/crowdzoid/assets/aa.png",
+        "/crowdzoid/assets/icons/android-icon-144x144.png",
+        "/crowdzoid/assets/icons/android-icon-192x192.png",
+        "/crowdzoid/assets/icons/android-icon-36x36.png",
+        "/crowdzoid/assets/icons/android-icon-48x48.png",
+        "/crowdzoid/assets/icons/android-icon-72x72.png",
+        "/crowdzoid/assets/icons/android-icon-96x96.png",
+        "/crowdzoid/assets/icons/apple-icon-114x114.png",
+        "/crowdzoid/assets/icons/apple-icon-120x120.png",
+        "/crowdzoid/assets/icons/apple-icon-144x144.png",
+        "/crowdzoid/assets/icons/apple-icon-152x152.png",
+        "/crowdzoid/assets/icons/apple-icon-180x180.png",
+        "/crowdzoid/assets/icons/apple-icon-57x57.png",
+        "/crowdzoid/assets/icons/apple-icon-60x60.png",
+        "/crowdzoid/assets/icons/apple-icon-72x72.png",
+        "/crowdzoid/assets/icons/apple-icon-76x76.png",
+        "/crowdzoid/assets/icons/apple-icon-precomposed.png",
+        "/crowdzoid/assets/icons/apple-icon.png",
+        "/crowdzoid/assets/icons/favicon-16x16.png",
+        "/crowdzoid/assets/icons/favicon-32x32.png",
+        "/crowdzoid/assets/icons/favicon-96x96.png",
+        "/crowdzoid/assets/icons/icon-128x128.png",
+        "/crowdzoid/assets/icons/icon-144x144.png",
+        "/crowdzoid/assets/icons/icon-152x152.png",
+        "/crowdzoid/assets/icons/icon-192x192.png",
+        "/crowdzoid/assets/icons/icon-384x384.png",
+        "/crowdzoid/assets/icons/icon-512x512.png",
+        "/crowdzoid/assets/icons/icon-72x72.png",
+        "/crowdzoid/assets/icons/icon-96x96.png",
+        "/crowdzoid/assets/icons/ms-icon-144x144.png",
+        "/crowdzoid/assets/icons/ms-icon-150x150.png",
+        "/crowdzoid/assets/icons/ms-icon-310x310.png",
+        "/crowdzoid/assets/icons/ms-icon-70x70.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/crowdzoid/assets/aa.png": "bafba059257d22131df4019a9dbc869bd90f5ae8",
+    "/crowdzoid/assets/icons/android-icon-144x144.png": "07bc0e07e3295d60440c432d56b616b5dbb8aa70",
+    "/crowdzoid/assets/icons/android-icon-192x192.png": "bf952efc58a7bf25e72f1cd0b20df610875eed03",
+    "/crowdzoid/assets/icons/android-icon-36x36.png": "baf484923bb9fd544f9f60c0662cada2ab125a39",
+    "/crowdzoid/assets/icons/android-icon-48x48.png": "5e9d805b853b3e560ce2a621dfa9f9437df3ddaf",
+    "/crowdzoid/assets/icons/android-icon-72x72.png": "29d3fae070bacfa99fe7b6fe1a8c61595612cbab",
+    "/crowdzoid/assets/icons/android-icon-96x96.png": "a171169638126de859f750ff4264ec2aa2d130ec",
+    "/crowdzoid/assets/icons/apple-icon-114x114.png": "68816ebfb95435b1b50a977f5a148fcf95cfee65",
+    "/crowdzoid/assets/icons/apple-icon-120x120.png": "6f2f25523cfd57e48ff22a716d67ff812109f75e",
+    "/crowdzoid/assets/icons/apple-icon-144x144.png": "07bc0e07e3295d60440c432d56b616b5dbb8aa70",
+    "/crowdzoid/assets/icons/apple-icon-152x152.png": "caf21e33340ea0671c4480ded1ce5c5f1f9bb7f4",
+    "/crowdzoid/assets/icons/apple-icon-180x180.png": "694e44f2d3e70f185127e65ff6f686d1d9f6344f",
+    "/crowdzoid/assets/icons/apple-icon-57x57.png": "0d79b77732d9ce7279b74b65444b181a2a1a1d65",
+    "/crowdzoid/assets/icons/apple-icon-60x60.png": "0020f8832947939dc53626a58bd441a4fed7afe0",
+    "/crowdzoid/assets/icons/apple-icon-72x72.png": "29d3fae070bacfa99fe7b6fe1a8c61595612cbab",
+    "/crowdzoid/assets/icons/apple-icon-76x76.png": "1ffb781733233f40b965b9cb2382e3eb7c2ac7e5",
+    "/crowdzoid/assets/icons/apple-icon-precomposed.png": "1d7aa17cba1b712164bf28e2f7fd85a1aaa5a297",
+    "/crowdzoid/assets/icons/apple-icon.png": "1d7aa17cba1b712164bf28e2f7fd85a1aaa5a297",
+    "/crowdzoid/assets/icons/favicon-16x16.png": "63105082b43b2a9ab1d9ebc1295a9cee7eecf3cf",
+    "/crowdzoid/assets/icons/favicon-32x32.png": "75ac42238794b1c9a4a8d158b9daa4a5d61ecdca",
+    "/crowdzoid/assets/icons/favicon-96x96.png": "a171169638126de859f750ff4264ec2aa2d130ec",
+    "/crowdzoid/assets/icons/icon-128x128.png": "b592193be722b7334482d8d92daef916b7bbe3c4",
+    "/crowdzoid/assets/icons/icon-144x144.png": "296727f9788d89ee7df1d562150106380bb5aed4",
+    "/crowdzoid/assets/icons/icon-152x152.png": "4a9ed997e22aff1c2bb13dd019249463d0ff2300",
+    "/crowdzoid/assets/icons/icon-192x192.png": "234983c9898f761e9c6ee5c554be63b1b609a2c9",
+    "/crowdzoid/assets/icons/icon-384x384.png": "5e449d359f9a2af77dfc040c1e1fb72dc28ceee4",
+    "/crowdzoid/assets/icons/icon-512x512.png": "d7c76030705959a3eb7696c72645f1153e6eede0",
+    "/crowdzoid/assets/icons/icon-72x72.png": "897974a6a2440ac50f3a822cec3394ebc9b2bc63",
+    "/crowdzoid/assets/icons/icon-96x96.png": "7d327e27bd30d63aabac3d708090d74dbf6ae44e",
+    "/crowdzoid/assets/icons/ms-icon-144x144.png": "07bc0e07e3295d60440c432d56b616b5dbb8aa70",
+    "/crowdzoid/assets/icons/ms-icon-150x150.png": "fec8ae70eb5533a619e64e6c540059d7d29ea27c",
+    "/crowdzoid/assets/icons/ms-icon-310x310.png": "88cc39cdb556183089cf2b9db3836ac36c0c9e7c",
+    "/crowdzoid/assets/icons/ms-icon-70x70.png": "17ee35aaa7cd35212cda534e48e30edc5cda6da8",
+    "/crowdzoid/favicon.ico": "aa074fb2fe48202a4248862e9decd50922097481",
+    "/crowdzoid/index.html": "fd5bc57a7e6cd61f2a21d2f45a3686983dd95693",
+    "/crowdzoid/main.07bb33c90cc864d71b17.js": "76815f203a1e087269c2315a857ee64bc01a535e",
+    "/crowdzoid/polyfills-es5.613d1909ec381c0aefb7.js": "e3aac0d6ebd3f9f1286da2a0bbb8631c4642986c",
+    "/crowdzoid/polyfills.366aac02232b602daed7.js": "df37fb9005533e7beafa8777055b120733793167",
+    "/crowdzoid/runtime.741402d1d47331ce975c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/crowdzoid/styles.09e2c710755c8867a460.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
